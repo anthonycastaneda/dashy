@@ -36,4 +36,4 @@ _There is no warranty that this app will work as expected, and the author cannot
 _liable for anything that goes wrong._
 For more info, see TLDR Legal's [Explanation of MIT](https://tldrlegal.com/license/mit-license)
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLissy93%2Fdashy.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLissy93%2Fdashy?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fanthonycastaneda%2Fdashy.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fanthonycastaneda%2Fdashy?ref=badge_shield)
