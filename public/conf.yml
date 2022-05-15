@@ -41,12 +41,6 @@ sections:
           apiKey: ce1e4e23bea7fd1a3c3f9c256a8a322b
           city: 4699540
           units: imperial
-      - type: cve-vulnerabilities
-        options:
-          sortBy: publish-date
-          hasExploit: true
-          minScore: 5
-          limit: 5      
 
   - name: Public Internet
     icon: fas fa-cloud
@@ -63,11 +57,6 @@ sections:
       - title: 'Azure'
         icon: 'fab fa-microsoft'
         url: 'https://portal.azure.com'
-    widgets:
-      - type: github-trending-repos
-        options:
-          limit: 8
-          since: daily
 
   - name: Home Network
     icon: 'fas fa-network-wired'
@@ -78,11 +67,7 @@ sections:
       - title: 'Portainer'
         icon: 'fab fa-docker'
         url: 'https://raspberrypi.local:9443'
-    widgets:
-      - type: pi-hole-stats
-        options:
-          hostname: https://pi.anthonycastaneda.com/
-
+        
   - name: Getting Started
     icon: fas fa-rocket
     items:
