@@ -96,7 +96,7 @@ sections:
     icon: far fa-briefcase
     items:
       - title: ProtonMail
-        icon: favicon
+        icon: fas fa-envelope
         url: https://mail.protonmail.com/
       - title: TryIt Sampling
         icon: fas fa-gift
@@ -176,6 +176,3 @@ sections:
       - title: News
         icon: si-bbc
         url: https://bbc.co.uk/news
-
-
-
