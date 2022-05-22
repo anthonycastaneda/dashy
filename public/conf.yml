@@ -24,9 +24,10 @@ appConfig:
   enableErrorReporting: true
   allowConfigEdit: true
   enableFontAwesome: true
-  hideHeading: true
-  hideNav: true
-  hideFooter: true
+  hideComponents:
+    hideHeading: true
+    hideNav: true
+    hideFooter: true
 
 # Main content - An array of sections, each containing an array of items
 sections:
