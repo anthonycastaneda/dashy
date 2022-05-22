@@ -7,7 +7,7 @@ pageInfo:
     - title: GitHub
       path: https://github.com/anthonycastaneda
     - title: Documentation
-      path: https://dash.anthonycastaneda.com
+      path: https://docs.anthonycastaneda.com
 
 # Optional app settings and configuration
 appConfig:
@@ -68,17 +68,17 @@ sections:
         icon: 'fab fa-docker'
         url: 'https://raspberrypi.local:9443'
         
-  - name: Getting Started
+  - name: Dashy Resources
     icon: fas fa-rocket
     items:
       - title: GitHub
         description: Source Code, Issues and Pull Requests
-        url: https://github.com/anthonycastaneda
+        url: https://github.com/Lissy93/dashy
         icon: favicon
       - title: Docs
-        description: Blog & Documentation
+        description: Documentation
         icon: far fa-book
-        url: https://docs.anthonycastaneda.com
+        url: https://dashy.to/docs
       - title: Showcase
         description: See how others are using Dashy
         url: https://github.com/Lissy93/dashy/blob/master/docs/showcase.md
@@ -98,42 +98,12 @@ sections:
       - title: ProtonMail
         icon: favicon
         url: https://mail.protonmail.com/
-        description: Primary email account
-      - title: AnonAddy
-        icon: favicon
-        url: https://app.anonaddy.com/
-        description: Mail alias forwarder
-        tags: [hosted, personal, forwarder, aliases, email]
-        hotkey: 3
-        statusCheckAcceptCodes: '401'
+      - title: TryIt Sampling
+        icon: fas fa-gift
+        url: https://tryitsampling.com/member
       - title: BitWarden
         icon: fas fa-user-shield
         url: https://vault.bitwarden.com/
-        description: Password Vault
-      - title: EteSync
-        icon: favicon
-        url: https://pim.etesync.com/
-        description: Calendar + Contacts, CalDAV sync
-        tags: [hosted, personal, caldav, calendar, contacts, tasks, planning]
-        hotkey: 5
-      - title: Tasks
-        icon: https://i.ibb.co/v4jznK0/todo-list.png
-        url: https://pim.etesync.com/pim/tasks
-        description: Todo list and tasks from CalDAV
-        tags: [hosted, personal, caldav, tasks, planning]
-        hotkey: 6
-      - title: Tresorit
-        icon: favicon
-        url: https://web.tresorit.com/
-        description: Off-site encrypted file sync + backup
-        tags: [hosted, personal, files, backup, sync, storage]
-        hotkey: 7
-      - title: StandardNotes
-        icon: favicon
-        url: https://app.standardnotes.com/
-        description: Notes, and my second brain
-        tags: [hosted, personal, notes]
-        hotkey: 8
 
   - name: Dev & Cloud
     icon: far fa-code
